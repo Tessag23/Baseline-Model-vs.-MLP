@@ -7,6 +7,9 @@ Tech Stack: Python, pandas, NumPy, scikit-learn
 - Built a preprocessing pipeline incorporating missing-value imputation, feature standardization, and categorical encoding, fitting transformations on training data to prevent data leakage.
 - Compared model performance on held-out test data using Accuracy, Precision, Recall, F1-score, analyzing predictive performance and model trade-offs.
 
+## Dataset
+'Heart Failure Prediction Dataset' from Kaggle
+
 ## Problem Type
 Binary Classification 
 
