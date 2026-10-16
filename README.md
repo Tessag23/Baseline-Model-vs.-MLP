@@ -1,4 +1,4 @@
-# Heart Failure Prediction: Linear Model vs. MLP
+# Heart Failure Prediction: Baseline Model vs. MLP
 
 Tech Stack: Python, pandas, NumPy, scikit-learn
 
